@@ -1,3 +1,4 @@
 Agregando texto para rama Amarilla
 
-##Esto es un comentario en la línea 2 desde el master##
+
+##Esto es un comentario en la línea 2. Ajustando comnentario
